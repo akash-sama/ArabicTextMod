@@ -3,9 +3,10 @@
 
 
 ## Fine-Grained Hate Speech Detection on Arabic Twitter
-OFF or NOT_OFF: offensive language is any text that contains Vulgar or impolite words
+- OFF or NOT_OFF: offensive language is any text that contains Vulgar or impolite words
 
-HS or NOT_HS: Hate speech is defined as a kind of offensive language but is more nuanced that targets a person or a group of people based on common characteristics such as race/ethnicity/nationality, religion/belief, ideology, disability/disease, social class, gender, etc.
+
+- HS or NOT_HS: Hate speech is defined as a kind of offensive language but is more nuanced that targets a person or a group of people based on common characteristics such as ethnicity, nationality, religion, politics, disability, social class, gender, and gender.
 
 
 
