@@ -1,5 +1,5 @@
 # Arabic Text Modration 
-
+## https://arxiv.org/pdf/2201.06723.pdf
 
 
 ## Fine-Grained Hate Speech Detection on Arabic Twitter
@@ -25,7 +25,6 @@ The corpus contains ~13K tweets in total: 35% are offensive and 11% are hate spe
 
 Percentages of offensive language and hate speech in the corpus are the highest among other corpora without using pre-specified keywords or selecting a specific domain.
 
- https://arxiv.org/pdf/2201.06723.pdf
 
 
 
