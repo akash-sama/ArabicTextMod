@@ -3,10 +3,9 @@
 
 
 ## Fine-Grained Hate Speech Detection on Arabic Twitter
-Disclaimer: Some examples have offensive language and hate speech!
+OFF or NOT_OFF: offensive language is any text that contains Vulgar or impolite words
 
-
-Hate speech is defined as any kind of offensive language (insults, slurs, threats, encouraging violence, impolite language, etc.) that targets a person or a group of people based on common characteristics such as race/ethnicity/nationality, religion/belief, ideology, disability/disease, social class, gender, etc.
+HS or NOT_HS: Hate speech is defined as a kind of offensive language but is more nuanced that targets a person or a group of people based on common characteristics such as race/ethnicity/nationality, religion/belief, ideology, disability/disease, social class, gender, etc.
 
 
 
@@ -23,11 +22,7 @@ HS6 (gender)
 
 The corpus contains ~13K tweets in total: 35% are offensive and 11% are hate speech. Vulgar and violent tweets represent 1.5% and 0.7% of the whole corpus.
 
-
-
 Percentages of offensive language and hate speech in the corpus are the highest among other corpora without using pre-specified keywords or selecting a specific domain.
-
-
 
  https://arxiv.org/pdf/2201.06723.pdf
 
