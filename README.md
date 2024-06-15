@@ -1,5 +1,4 @@
 # Arabic Text Modration 
-## https://arxiv.org/pdf/2201.06723.pdf
 
 
 ## Fine-Grained Hate Speech Detection on Arabic Twitter
